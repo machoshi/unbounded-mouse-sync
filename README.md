@@ -1,14 +1,7 @@
-# CS3311-Proj
-The project of SJTU CS3311 Computer Network
-
-## IDEA1: 智能家电控制（官网）（复现 or）
-## IDEA2: 手机电脑剪贴板同步
-
-#### 调研方向1：M2M局域网数据传输
-
-#### 调研方向2：共享鼠标，窗口同步，前端操作
-
-#### 调研方向3：APP开发
-
-## IDEA3: 投屏软件
-
+# UMS
+## Easy Start
+1. Fill in the ``Target IP`` blank and click on ``connect`` button to connect with other devices.
+2. Check the screen scale of your device. For Windows users, click on the mouse right and open Display Settings. Find the scale and fill in the blank. Click ``set`` button to confirm.
+ ![](./img/scale.png)
+3. Tick the check box ``Main Device`` for one of your device, and click on ``Start Unbounded Mouse`` for **3** times. The application will check if mouse is shared. 
+4. Click on ``Open File`` and choose the file you want UMS to manage. Now you can easily transmit the file to your other device just by dragging it to the left screen bound.
